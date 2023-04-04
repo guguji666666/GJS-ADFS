@@ -1,0 +1,1 @@
+## Tips when using ADFS
